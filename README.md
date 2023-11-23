@@ -1,5 +1,5 @@
 # NodeJsapi Implementation
-An API system wriitn with JS to show basic http methods
+An API system implemented with JS to show basic http methods
 
 COMMON HTTP PROTOCOL SUCH AS
 GET
